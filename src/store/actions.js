@@ -1,0 +1,1 @@
+export const setUsers = (usersList) => ({type: "SET_USERS", payload: usersList })
